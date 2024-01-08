@@ -1,5 +1,5 @@
-# Sumbitted by  : Syed Muhammad Mudasir
-# Rollno        : F21BSEEN1E02007
+# Sumbitted by  : Muhammad Daud
+# Rollno        : F21BSEEN1E02012
 # Semester      : 5th
 # Section       : E1
 # Project       : Institute Configuration In Tkinter
